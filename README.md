@@ -26,8 +26,7 @@ Gosto de transformar ideias em interfaces bonitas, intuitivas e funcionais. Esto
 
 - 🎓 Estudante de Ciência da Computação.
 - 💻 Aprendendo HTML, CSS e JavaScript.
-- ⚛️ Explorando React e o desenvolvimento de interfaces.
-- 🎨 Tenho interesse em UI/UX Design e design de interfaces.
+- 🎨 Tenho interesse em design de interfaces.
 - 🌱 Sempre buscando aprender algo novo e evoluir um pouquinho a cada dia.
 
 🇺🇸 **English**
@@ -38,7 +37,6 @@ I love turning ideas into beautiful, intuitive, and functional interfaces. I'm b
 
 - 🎓 Computer Science student.
 - 💻 Learning HTML, CSS, and JavaScript.
-- ⚛️ Exploring React and interface development.
 - 🎨 Interested in interface design.
 - 🌱 Always learning, creating, and growing a little every day.
 
