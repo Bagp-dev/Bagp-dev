@@ -46,7 +46,7 @@ I love turning ideas into beautiful, intuitive, and functional interfaces. I'm b
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode&theme=light" alt="HTML, CSS, JavaScript, React, Python, Git, GitHub and VS Code" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=light" alt="HTML, CSS, JavaScript, React, Python, Git, GitHub and VS Code" />
 
 </div>
 
