@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=F8DDEB,E9DDFB,D9EAFD&height=160&section=header&text=Hello,%20world!%20୨୧&fontSize=38&fontColor=74566F&animation=fadeIn&fontAlignY=40&desc=welcome%20to%20my%20little%20corner%20of%20GitHub%20♡&descSize=13&descAlignY=65" width="100%" />
 
-### 🌷 Beatriz | Bia
+### 🌷 Beatriz Araújo | Github
 
 **Computer Science Student · Front-End Developer in Progress**
 
