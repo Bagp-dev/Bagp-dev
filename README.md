@@ -1,12 +1,12 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DDEB,E9DDFB,D9EAFD&height=160&section=header&text=Hello,%20world!%20୨୧&fontSize=38&fontColor=74566F&animation=fadeIn&fontAlignY=40&desc=welcome%20to%20my%20little%20corner%20of%20GitHub%20♡&descSize=13&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=f4b3c9&section=header&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=43&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
 
 ### 🌷 Beatriz Araújo | Github
 
-**Computer Science Student · Front-End Developer in Progress**
+**Computer Science Student · Front-End Developer**
 
-*Turning ideas into interfaces, one line of code at a time.* ♡
+♡ “Every project is an opportunity to use my talents to serve others and make a positive impact. With God at the center, I strive for excellence in everything I do.” ♡
 
 [![GitHub](https://img.shields.io/badge/GitHub-FFCFE1?style=flat-square&logo=github&logoColor=74566F)](https://github.com/Bagp-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E5D9FF?style=flat-square&logo=linkedin&logoColor=74566F)](https://www.linkedin.com/in/beatriz-ara%C3%BAjo-0a8a9a238)
@@ -20,7 +20,7 @@
 
 🇧🇷 **Português**
 
-Oi! Eu sou a Bia, estudante de Ciência da Computação e apaixonada pelo universo do desenvolvimento Front-End. 💗
+Oi! Eu sou a Beatriz, estudante de Ciência da Computação focada em desenvolvimento Front-End. 💗
 
 Gosto de transformar ideias em interfaces bonitas, intuitivas e funcionais. Estou construindo minha jornada na programação, aprendendo na prática e desenvolvendo projetos para aprimorar minhas habilidades.
 
@@ -31,7 +31,7 @@ Gosto de transformar ideias em interfaces bonitas, intuitivas e funcionais. Esto
 
 🇺🇸 **English**
 
-Hi! I'm Bia, a Computer Science student passionate about Front-End development. 💗
+Hi! I'm Beatriz, a Computer Science student focused on Front-End Development. 💗
 
 I love turning ideas into beautiful, intuitive, and functional interfaces. I'm building my programming journey by learning through practice and creating projects to improve my skills.
 
@@ -46,17 +46,11 @@ I love turning ideas into beautiful, intuitive, and functional interfaces. I'm b
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=light" alt="HTML, CSS, JavaScript, React, Python, Git, GitHub and VS Code" />
+<img src="https://skillicons.dev/icons?i=html,css,figma,js,python,git,github,vscode&theme=light" alt="HTML, CSS, JavaScript, React, Python, Git, GitHub and VS Code" />
 
 </div>
 
-
-> ♡ My journey is just beginning! I'm continuously improving my skills through study and personal projects.
->
-> ♡ Minha jornada está apenas começando! Estou aprimorando minhas habilidades por meio dos estudos e de projetos pessoais.
-
-## 🌷 GitHub em números | GitHub stats
-
+## 🌷 GitHub status
 
 <div align="center">
 
@@ -74,11 +68,6 @@ I love turning ideas into beautiful, intuitive, and functional interfaces. I'm b
 
 *“Cada projeto é uma oportunidade de usar meus talentos para servir e criar impacto positivo. Com Deus no centro, busco excelência em tudo que faço.” ♡*
 
-## 🌼 Além do código | Beyond code
-
-- 🎨 UI/UX Design and creative projects.
-- 📚 Aprendizado contínuo e novos desafios.
-- 🌸 Criar coisas que sejam úteis, criativas e acessíveis.
 
 ## 💌 Vamos nos conectar? | Let's connect!
 
@@ -93,11 +82,11 @@ Estou sempre feliz em conhecer pessoas que gostam de tecnologia, design e aprend
 
 ୨୧ ──────────────── ୨୧
 
-*“Little by little, one travels far.”* 🌷
+*SDG*
 
 **Obrigada pela visita! · Thanks for stopping by! ♡**
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DDEB,E9DDFB,D9EAFD&height=90&section=footer" width="100%" />
+<img src="https://i.pinimg.com/1200x/93/82/26/938226ff69700b1bb01b49c773e901a2.jpg" width="100%" />
 
 </div>
 
