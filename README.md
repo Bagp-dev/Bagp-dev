@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=f4b3c9&section=header&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=43&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
 
-### 🌷 Beatriz Araújo | Github
+### 🌷 Beatriz Araújo | Github 🌷
 
 **Computer Science Student · Front-End Developer**
 
